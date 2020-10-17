@@ -11,7 +11,7 @@
 ###### ● ‘No_show’ it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.  
 #####
 ## Progress outline: 
-#### using data analysis proccess to explore a data set answer questions we were interested on.
+#### using data analysis process to explore a data set answer questions.
 ###### 1-Clean data 
 ###### 2-explore data
 ###### 3-answer questions by visualize the data
